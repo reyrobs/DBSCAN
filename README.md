@@ -1,2 +1,2 @@
 # DBSCAN
-Implemented DBSCAN algorithm from scratch
+Implemented the DBSCAN algorithm from scratch in order to familiarize myself with a clustering algorithm. 
